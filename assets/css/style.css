@@ -3,10 +3,7 @@
 ----------------------------------------------------------------
 # common
 # Animations 
-# Topbar 
-	## Topbar Two 
 # Main Navigation 
-	## Main Nav Two 
 # SideMenu 
 # Main Footer 
 	## Footer Bottom 
@@ -845,6 +842,7 @@ a:focus {
 
 .main-nav-one .container {
 	position: relative;
+
 }
 
 .main-nav-one__infos-email {
@@ -1835,7 +1833,7 @@ a:focus {
 
 .slider-one__content h3 {
 	margin: 0;
-	font-size: 120px;
+	font-size: 90px;
 	line-height: 100px;
 	color: #fff;
 	text-transform: uppercase;
@@ -1969,6 +1967,7 @@ a:focus {
 .slider-two [class*=slider-one__slide-] {
 	padding-top: 290px;
 	padding-bottom: 183px;
+	width: 100vh;
 }
 
 .slider-two [class*=slider-one__slide-]::before {
