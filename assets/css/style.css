@@ -4017,6 +4017,7 @@ body .slider-two .slider-one__content h3 {
 	left: -10px;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
+	display: none;
 }
 
 .course-one__single:hover .course-one__content::after {
@@ -4219,7 +4220,7 @@ body .slider-two .slider-one__content h3 {
 
 
 .course-details {
-	padding-top: 120px;
+	
 	padding-bottom: 120px;
 }
 
